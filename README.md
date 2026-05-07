@@ -1,1 +1,2 @@
 This repository contains two animations of N-body simulations that I ran over the course of my research with Professor Darrrly Seligman. Our results are avaialbe here: https://ui.adsabs.harvard.edu/abs/2026MNRAS.547ag345M/abstract
+The file titled "scattering_combined_particle_470_heliocentric.mp4" shows four visualizations of a restricted three-body system consisting of the Sun, a Jupiter-mass planet on a circular orbit, and a test particle. 
