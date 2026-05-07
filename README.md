@@ -1,0 +1,1 @@
+This repository contains two animations of N-body simulations that I ran over the course of my research with Professor Darrrly Seligman. Our results are avaialbe here: https://ui.adsabs.harvard.edu/abs/2026MNRAS.547ag345M/abstract
